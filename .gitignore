@@ -1,0 +1,15 @@
+# 学生个人数据与运行产物一律不入库
+student_database.db
+student_database*.db
+backups/
+imports/
+__pycache__/
+*.pyc
+~$*
+验证导出样例.xlsx
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
